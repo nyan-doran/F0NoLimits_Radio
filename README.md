@@ -11,11 +11,9 @@ F0NoLimits 세계관용 팀라디오 카드를 생성할 수 있습니다.
 4. Add Message 버튼으로 메시지를 추가할 수 있습니다.
 5. 완성된 카드는 Copy Image 또는 Download PNG로 저장할 수 있습니다.
 
-
 Credits
 - F0NoLimits 세계관 / Creator: RETINA
 - Radio Card Form / Page 제작: 냥도란
-
 
 Notice
 본 페이지는 #F0NoLimits 세계관을 위한 팬메이드 도구입니다.
