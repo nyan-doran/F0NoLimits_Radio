@@ -1,4 +1,4 @@
-# F0NoLimits Radio Card Generator
+# F0NoLimits Radio Card 생성기
 
 멜팅 크리에이터 **RETINA**님의 **#F0NoLimits 세계관 드라이버들의 팀라디오 카드를 만드는 페이지**입니다.
 
